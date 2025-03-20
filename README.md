@@ -1,0 +1,1 @@
+> A landing page is a web page designed for a specific purpose, such as promoting a product, launching a new product, or offering a discount. Landing pages can increase website traffic, conversion rates, and engagement.

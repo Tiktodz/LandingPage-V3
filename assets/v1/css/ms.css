@@ -1,5 +1,5 @@
 .embed-responsive-16by9:before {
-  padding-top: -1 !important;
+  padding-top: 0 !important;
 }
 
 .vjs-big-play-centered .vjs-big-play-button {
